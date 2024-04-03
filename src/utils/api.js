@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.REACT_APP_API_BASE_URL || "https://we-love-movies-backend-7lrq.onrender.com";
+  process.env.REACT_APP_API_BASE_URL || "https://we-love-movies-backend-7lrq.onrender.com"; // Updated with my url from render
 
 /**
  * Defines the default headers for these functions to work with `json-server`
